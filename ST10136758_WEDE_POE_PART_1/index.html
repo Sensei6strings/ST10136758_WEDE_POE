@@ -1,48 +1,140 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>SPCA South Africa | Home</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
 
 <header>
-    <img src="images/spca-logo.png" alt="SPCA South Africa Logo" width="140">
-    <h1>SPCA South Africa</h1>
+
+    <div class="logo-container">
+        <img src="images/spca-logo.jpg" alt="SPCA South Africa Logo" class="logo">
+        <h1>SPCA South Africa</h1>
+    </div>
 
     <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="services.html">Services</a>
-        <a href="enquiry.html">Enquiry</a>
-        <a href="contact.html">Contact</a>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="enquiry.html">Enquiry</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
     </nav>
+
 </header>
 
 <main>
 
-    <section>
-        <h2>Every Animal Deserves a Second Chance</h2>
-        <img src="images/hero-dog.jpg" alt="Rescued dog looking hopeful at SPCA shelter" width="500">
-        <p>
-            The SPCA rescues, rehabilitates, and rehomes animals in need across South Africa.
-            You can help by adopting, donating, or volunteering.
-        </p>
+   
+    <section class="hero">
+
+        <div class="hero-content">
+            <h2>Every Life Deserves a Second Chance</h2>
+
+            <p>
+                The SPCA South Africa is dedicated to protecting animals from cruelty, neglect, and suffering.
+                Through rescue, rehabilitation, and adoption, we work every day to give animals the future they deserve.
+            </p>
+
+            <p>
+                Your support — whether through adoption, donation, or volunteering — directly changes lives.
+            </p>
+
+            <a href="enquiry.html" class="btn">Get Involved</a>
+        </div>
+
+        <img src="images/hero-dog.png" alt="Hopeful rescued dog at SPCA shelter" class="hero-image">
+
     </section>
 
-    <section>
-        <h2>Featured Rescue Story</h2>
-        <img src="images/jack-rescue.jpg" alt="Rescued dog Jack after being saved from neglect" width="400">
+    
+    <section class="card">
+
+        <h2>Our Impact</h2>
+
         <p>
-            Jack was rescued from severe neglect and has since recovered through SPCA care and rehabilitation.
+            Every year, SPCA branches across South Africa respond to thousands of cruelty cases,
+            rescue injured and abandoned animals, and rehabilitate them for new homes.
         </p>
+
+        <p>
+            Behind every rescue is a team of inspectors, veterinarians, and volunteers working tirelessly
+            to ensure that no animal suffers without help.
+        </p>
+
     </section>
 
-    <section>
-        <h2>Get Involved</h2>
-        <a href="enquiry.html">Adopt or Volunteer</a>
+    
+    <section class="content-grid">
+
+        <!-- STORY 1 -->
+        <section class="card">
+
+            <h3>🐾 Bella’s Rescue Story</h3>
+
+            <img src="images/bella-rescue.jpg" alt="Rescued dog Bella recovering after neglect">
+
+            <p>
+                Bella was found abandoned on the outskirts of Johannesburg, severely malnourished and unable to walk properly.
+            </p>
+
+            <p>
+                After weeks of medical care and rehabilitation at an SPCA facility, she slowly regained strength,
+                trust, and her playful personality.
+            </p>
+
+            <p>
+                Today, Bella has been adopted into a loving family where she enjoys safety, warmth, and care —
+                something she was once denied.
+            </p>
+
+        </section>
+
+       
+        <section class="card">
+
+            <h3>🐾 Max’s Journey to Recovery</h3>
+
+            <img src="images/max-rescue.jpg" alt="Rescued dog Max after treatment and recovery">
+
+            <p>
+                Max was rescued from a severe neglect situation where he had limited access to food and medical care.
+            </p>
+
+            <p>
+                SPCA inspectors intervened in time, providing emergency treatment and long-term rehabilitation support.
+            </p>
+
+            <p>
+                After months of recovery, Max was adopted by a caring family and now lives a healthy,
+                happy life filled with companionship and stability.
+            </p>
+
+        </section>
+
+    </section>
+
+    
+    <section class="card">
+
+        <h2>Be Part of the Change</h2>
+
+        <p>
+            You don’t need to be an expert to make a difference. Every adoption, donation, and volunteer effort
+            helps us continue our mission of protecting animals across South Africa.
+        </p>
+
+        <a href="enquiry.html" class="btn">Adopt, Donate or Volunteer</a>
+
     </section>
 
 </main>
