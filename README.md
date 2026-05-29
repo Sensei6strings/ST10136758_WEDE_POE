@@ -170,3 +170,194 @@ Unsplash. 2024. Free stock images. Available at: [https://unsplash.com](https://
 
 ---
 
+
+Project Description
+A responsive multi-page SPCA South Africa website built using HTML, CSS, and JavaScript. The project focuses on animal welfare awareness, adoption, donations, and volunteer engagement. Part 2 introduces a fully styled interface using external CSS, responsive layouts, and improved user experience design aligned with modern web standards.
+
+---
+
+ST10136758_WEDE_POE_PART_2
+
+Project Title
+SPCA South Africa Website Development Project
+
+Student Information
+Name: Smangaliso Yengwa  
+Student Number: ST10136758  
+Module: WEDE5020 Web Development  
+
+---
+
+Project Overview
+This project involves the continued development of a multi-page website for the SPCA South Africa organisation. In Part 2, the focus shifts from HTML structure (Part 1) to full visual design implementation using CSS, including typography, layout systems, responsive design, and visual branding.
+
+The website is designed to be fully responsive across desktop, tablet, and mobile devices while maintaining accessibility, readability, and ethical content presentation.
+
+---
+
+Organisation Overview
+The SPCA South Africa is a non-profit organisation dedicated to preventing cruelty to animals, rescuing abused and neglected animals, and promoting responsible pet ownership across South Africa.
+
+---
+
+Website Goals and Objectives
+
+Primary Goals
+- Raise awareness about animal cruelty and prevention  
+- Promote animal adoption and rehoming services  
+- Encourage donations to support SPCA operations  
+- Increase volunteer participation  
+- Provide accessible, structured, and engaging information  
+
+Key Performance Indicators (KPIs)
+- Number of adoption enquiries submitted  
+- Volunteer engagement interactions  
+- Donation enquiry submissions  
+- User engagement time on site  
+- Mobile usability performance  
+
+---
+
+Part 2 Development Focus (CSS Implementation)
+
+CSS Styling Achievements
+- Created external stylesheet (styles.css) linked across all pages  
+- Implemented consistent colour scheme (white and midnight blue theme)  
+- Established global typography system using scalable font hierarchy  
+- Applied CSS Grid and Flexbox for structured page layouts  
+- Designed reusable UI components (cards, buttons, navigation)  
+- Added hover, focus, and active pseudo-class interactions  
+- Improved visual hierarchy and spacing across all pages  
+
+---
+
+Responsive Design Implementation
+- Added media queries for desktop, tablet, and mobile breakpoints  
+- Converted multi-column layouts into single-column layouts on smaller screens  
+- Used relative units (rem, %) for scalable design  
+- Ensured images are responsive using width: 100% and height: auto  
+- Tested layouts using browser developer tools across multiple screen sizes  
+
+---
+
+Visual Design Improvements
+- Consistent branding using midnight blue and white colour palette  
+- Card-based UI system for readability and separation of content  
+- Improved navigation styling for clarity and usability  
+- Enhanced call-to-action buttons for engagement  
+- Structured spacing for improved readability and scanning  
+
+---
+
+Key Features and Functionality
+- Fully responsive multi-page navigation system  
+- Hero sections with clear call-to-action elements  
+- Story-based homepage with real rescue narratives  
+- Structured About page with mission, vision, and impact  
+- Services page with detailed explanations of SPCA operations  
+- Enquiry page with separate Adopt, Donate, and Volunteer sections  
+- Contact page with multiple Gauteng branch locations and emergency hotline  
+- External CSS stylesheet applied across entire website  
+
+---
+
+Sitemap
+- Home page (index.html)  
+- About page (about.html)  
+- Services page (services.html)  
+- Enquiry page (enquiry.html)  
+- Contact page (contact.html)  
+
+---
+
+File Structure
+ST10136758_WEDE_POE_PART_2/
+
+index.html  
+about.html  
+services.html  
+enquiry.html  
+contact.html  
+
+css/
+    styles.css
+
+images/
+    spca-logo.png
+    hero-dog.jpg
+    bella-rescue.jpg
+    max-rescue.jpg
+    mcgonagall-adoption.jpg
+    rescue-team.jpg
+    adoption.jpg
+    vet-care.jpg
+    map.jpg
+
+js/
+documents/
+README.md  
+
+---
+
+Changelog
+
+Version 1.0 (Part 1 Submission)
+- Created full HTML structure for all required pages  
+- Implemented navigation system across website  
+- Added SPCA-based content structure and storytelling  
+- Created enquiry form for user interaction  
+- Added contact page with SPCA details  
+- Organised file and folder structure  
+
+---
+
+Version 2.0 (Part 2 – CSS Implementation & UI Upgrade)
+- Created external CSS stylesheet and linked across all pages  
+- Implemented consistent midnight blue and white colour theme  
+- Applied typography system with scalable font hierarchy  
+- Built responsive layout using CSS Grid and Flexbox  
+- Added media queries for mobile, tablet, and desktop breakpoints  
+- Improved UI components (cards, buttons, navigation styling)  
+- Enhanced visual hierarchy and spacing for readability  
+- Updated homepage with structured rescue storytelling sections  
+- Expanded About page with deeper mission, vision, and impact content  
+- Redesigned Services page with detailed explanations of each service  
+- Improved Enquiry page with structured Adopt, Donate, Volunteer sections  
+- Redesigned Contact page with 6 Gauteng SPCA branches and map link  
+
+---
+
+Ethical Considerations
+- All content is presented respectfully and avoids graphic animal suffering  
+- Images sourced from free-use platforms (Unsplash, Pexels, Wikimedia)  
+- Content maintains awareness-focused tone aligned with SPCA values  
+- Donation messaging avoids manipulation and remains transparent  
+- POPIA principles considered in form design and data handling  
+
+---
+
+Accessibility Considerations
+- All images include descriptive alt text  
+- Semantic HTML used for structured content  
+- Consistent navigation across all pages  
+- Responsive design improves mobile accessibility  
+- Colour contrast improved for readability (midnight blue theme)  
+- Clear headings improve screen reader navigation  
+
+---
+
+References
+Cape of Good Hope SPCA. 2025. Rescue and adoption services. Available at: https://capespca.co.za  
+
+NSPCA South Africa. 2023. Official animal welfare organisation. Available at: https://nspca.co.za  
+
+RSPCA. 2024. Animal welfare standards and education. Available at: https://www.rspca.org.uk  
+
+Nonprofit Tech for Good. 2023. Digital engagement for nonprofits. Available at: https://www.nptechforgood.com  
+
+Pexels. 2024. Free stock images. Available at: https://www.pexels.com  
+
+Unsplash. 2024. Free stock images. Available at: https://unsplash.com  
+
+Wikimedia Commons. 2024. Open access media resources. Available at: https://commons.wikimedia.org  
+
