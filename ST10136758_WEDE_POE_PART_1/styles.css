@@ -1,341 +1,338 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SPCA South Africa | Home</title>
-</head>
-
-<body>
-
-<header>
-    <img src="images/spca-logo.png" alt="SPCA South Africa Logo" width="140">
-    <h1>SPCA South Africa</h1>
-
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="services.html">Services</a>
-        <a href="enquiry.html">Enquiry</a>
-        <a href="contact.html">Contact</a>
-    </nav>
-</header>
-
-<main>
-
-    <section>
-        <h2>Every Animal Deserves a Second Chance</h2>
-        <img src="images/hero-dog.jpg" alt="Rescued dog looking hopeful at SPCA shelter" width="500">
-        <p>
-            The SPCA rescues, rehabilitates, and rehomes animals in need across South Africa.
-            You can help by adopting, donating, or volunteering.
-        </p>
-    </section>
-
-    <section>
-        <h2>Featured Rescue Story</h2>
-        <img src="images/jack-rescue.jpg" alt="Rescued dog Jack after being saved from neglect" width="400">
-        <p>
-            Jack was rescued from severe neglect and has since recovered through SPCA care and rehabilitation.
-        </p>
-    </section>
-
-    <section>
-        <h2>Get Involved</h2>
-        <a href="enquiry.html">Adopt or Volunteer</a>
-    </section>
-
-</main>
-
-<footer>
-    <p>&copy; 2026 SPCA South Africa</p>
-</footer>
-
-</body>
-</html>
-
---------
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About SPCA</title>
-</head>
-
-<body>
-
-<header>
-    <img src="images/spca-logo.png" alt="SPCA Logo" width="140">
-    <h1>About Us</h1>
-
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="services.html">Services</a>
-        <a href="enquiry.html">Enquiry</a>
-        <a href="contact.html">Contact</a>
-    </nav>
-</header>
-
-<main>
-
-    <section>
-        <h2>Our Mission</h2>
-        <p>To prevent cruelty and promote kindness towards animals in South Africa.</p>
-    </section>
-
-    <section>
-        <h2>Our Vision</h2>
-        <p>A society where all animals are treated with respect and compassion.</p>
-    </section>
-
-    <section>
-        <h2>Our Work in Action</h2>
-        <img src="images/mcgonagall-adoption.jpg" alt="Dog McGonagall after successful adoption" width="500">
-        <p>
-            McGonagall was rescued from a breeding environment and successfully adopted after rehabilitation.
-        </p>
-    </section>
-
-</main>
-
-<footer>
-    <p>&copy; 2026 SPCA South Africa</p>
-</footer>
-
-</body>
-</html>
-
---------
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SPCA Services</title>
-</head>
-
-<body>
-
-<header>
-    <img src="images/spca-logo.png" alt="SPCA Logo" width="140">
-    <h1>Our Services</h1>
-
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="services.html">Services</a>
-        <a href="enquiry.html">Enquiry</a>
-        <a href="contact.html">Contact</a>
-    </nav>
-</header>
-
-<main>
-
-    <section>
-        <h2>Animal Rescue Operations</h2>
-        <img src="images/rescue-team.jpg" alt="SPCA rescue team saving animals" width="500">
-        <p>We respond to cruelty cases and rescue animals under legal authority.</p>
-    </section>
-
-    <section>
-        <h2>Adoption Services</h2>
-        <img src="images/adoption.jpg" alt="Dog being adopted into a new home" width="500">
-        <p>We help rehabilitated animals find safe and loving homes.</p>
-    </section>
-
-    <section>
-        <h2>Veterinary Care</h2>
-        <img src="images/vet-care.jpg" alt="Veterinarian treating rescued dog" width="500">
-        <p>All rescued animals receive medical treatment and rehabilitation.</p>
-    </section>
-
-    <section>
-        <h2>Community Outreach Programme</h2>
-        <p>
-            The SPCA runs educational programmes in schools and communities to promote responsible pet ownership
-            and prevent animal cruelty before it happens.
-        </p>
-    </section>
-
-</main>
-
-<footer>
-    <p>&copy; 2026 SPCA South Africa</p>
-</footer>
-
-</body>
-</html>
---------
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enquiry</title>
-</head>
-
-<body>
-
-<header>
-    <img src="images/spca-logo.png" alt="SPCA Logo" width="140">
-    <h1>Enquiry Form</h1>
-
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="services.html">Services</a>
-        <a href="enquiry.html">Enquiry</a>
-        <a href="contact.html">Contact</a>
-    </nav>
-</header>
-
-<main>
-
-    <section>
-        <h2>Adopt, Donate, or Volunteer</h2>
-
-        <form>
-            <label>Full Name:</label><br>
-            <input type="text" name="fullname"><br><br>
-
-            <label>Email Address:</label><br>
-            <input type="email" name="email"><br><br>
-
-            <label>Message:</label><br>
-            <textarea name="message"></textarea><br><br>
-
-            <button type="submit">Submit Enquiry</button>
-        </form>
-    </section>
-
-</main>
-
-<footer>
-    <p>&copy; 2026 SPCA South Africa</p>
-</footer>
-
-</body>
-</html>
---------
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact SPCA South Africa</title>
-</head>
-
-<body>
-
-<header>
-    <img src="images/spca-logo.png" alt="SPCA South Africa Logo" width="140">
-    <h1>Contact SPCA South Africa</h1>
-
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="services.html">Services</a>
-        <a href="enquiry.html">Enquiry</a>
-        <a href="contact.html">Contact</a>
-    </nav>
-</header>
-
-<main>
-
-    <!-- GENERAL CONTACT -->
-    <section>
-        <h2>General Enquiries</h2>
-
-        <p>
-            <strong>NSPCA Head Office</strong>
-        </p>
-
-        <p>
-            Phone:
-            <a href="tel:+27119073590">+27 11 907 3590</a>
-        </p>
-
-        <p>
-            Email:
-            <a href="mailto:info@nspca.co.za">info@nspca.co.za</a>
-        </p>
-    </section>
-
-    <hr>
-
-    <!-- EMERGENCY / CRUELTY -->
-    <section>
-        <h2>Animal Cruelty Reporting (24/7 Emergency Line)</h2>
-
-        <p>
-            If you witness animal cruelty or neglect, report it immediately.
-            NSPCA inspectors respond to urgent cases across South Africa.
-        </p>
-
-        <p>
-            Emergency Hotline:
-            <a href="tel:+27833261604">+27 83 326 1604</a>
-        </p>
-
-        <p>
-            Email:
-            <a href="mailto:cruelty@nspca.co.za">cruelty@nspca.co.za</a>
-        </p>
-    </section>
-
-    <hr>
-
-    <!-- ADOPTION -->
-    <section>
-        <h2>Adoption Enquiries</h2>
-
-        <p>
-            Adoption services are handled by individual SPCA branches across South Africa.
-            Please contact your nearest branch directly for available animals.
-        </p>
-
-        <p>
-            Visit official directory:
-            <a href="https://nspca.co.za/contact-us/" target="_blank">
-                SPCA Branch Directory
-            </a>
-        </p>
-    </section>
-
-    <hr>
-
-    <!-- LOCATIONS -->
-    <section>
-        <h2>SPCA Locations</h2>
-
-        <ul>
-            <li>Johannesburg SPCA</li>
-            <li>Pretoria SPCA</li>
-            <li>Cape of Good Hope SPCA</li>
-        </ul>
-
-        <img src="images/map.jpg" alt="Map showing SPCA branches in South Africa" width="500">
-    </section>
-
-    <hr>
-
-    <!-- OFFICE HOURS -->
-    <section>
-        <h2>Office Hours</h2>
-
-        <p>Monday – Friday: 08:00 – 16:30</p>
-        <p>Emergency cruelty line: Available 24/7</p>
-    </section>
-
-</main>
-
-<footer>
-    <p>&copy; 2026 SPCA South Africa</p>
-</footer>
-
-</body>
-</html>
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* =========================
+   ROOT VARIABLES (MIDNIGHT BLUE THEME)
+========================= */
+
+:root {
+    --primary-color: #0b1d39;
+    --secondary-color: #ffffff;
+    --accent-color: #4da3ff;
+
+    --background-color: #ffffff;
+    --text-color: #0b1d39;
+    --muted-text: #4b5563;
+
+    --shadow: 0 6px 18px rgba(11, 29, 57, 0.15);
+    --radius: 14px;
+}
+
+/* =========================
+   GLOBAL STYLES
+========================= */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.7;
+}
+
+main {
+    width: 90%;
+    max-width: 1200px;
+    margin: 2rem auto;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: var(--radius);
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+/* =========================
+   TYPOGRAPHY
+========================= */
+
+h1 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+h3 {
+    font-size: 1.4rem;
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
+}
+
+p {
+    font-size: 1rem;
+    color: var(--muted-text);
+    margin-bottom: 1rem;
+}
+
+/* =========================
+   HEADER
+========================= */
+
+header {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding: 1.2rem 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.logo {
+    width: 85px;
+    height: auto;
+}
+
+/* =========================
+   NAVIGATION
+========================= */
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 1.2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: var(--secondary-color);
+    font-weight: 500;
+    padding: 0.5rem 0.8rem;
+    border-radius: 8px;
+    transition: 0.3s ease;
+}
+
+.nav-links a:hover {
+    background-color: var(--accent-color);
+    color: var(--primary-color);
+}
+
+.nav-links a:focus {
+    outline: 2px solid var(--accent-color);
+}
+
+.nav-links a:active {
+    transform: scale(0.96);
+}
+
+/* =========================
+   HERO SECTION
+========================= */
+
+.hero {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    align-items: center;
+    background-color: var(--secondary-color);
+    border: 2px solid #e5e7eb;
+    padding: 2rem;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+}
+
+.hero-image {
+    max-height: 450px;
+    object-fit: cover;
+}
+
+/* =========================
+   BUTTONS
+========================= */
+
+.btn {
+    display: inline-block;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding: 0.9rem 1.4rem;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s ease;
+    border: none;
+}
+
+.btn:hover {
+    background-color: var(--accent-color);
+    color: var(--primary-color);
+    transform: translateY(-2px);
+}
+
+.btn:active {
+    transform: scale(0.96);
+}
+
+/* =========================
+   CARDS
+========================= */
+
+.card {
+    background-color: var(--secondary-color);
+    border: 1px solid #e5e7eb;
+    padding: 2rem;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    transition: 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+}
+
+/* =========================
+   GRIDS
+========================= */
+
+.content-grid,
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+}
+
+/* =========================
+   FORMS
+========================= */
+
+.enquiry-form {
+    background-color: var(--secondary-color);
+    padding: 2rem;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+}
+
+.form-group {
+    margin-bottom: 1.2rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    color: var(--primary-color);
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 0.9rem;
+    border: 1px solid #d1d5db;
+    border-radius: 10px;
+    font-family: inherit;
+}
+
+input:focus,
+textarea:focus {
+    border-color: var(--accent-color);
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(77, 163, 255, 0.2);
+}
+
+textarea {
+    min-height: 160px;
+    resize: vertical;
+}
+
+/* =========================
+   CONTACT
+========================= */
+
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.contact-container section {
+    background-color: var(--secondary-color);
+    padding: 1.5rem;
+    border-radius: var(--radius);
+    border: 1px solid #e5e7eb;
+}
+
+.contact-container a {
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.contact-container a:hover {
+    color: var(--accent-color);
+}
+
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    text-align: center;
+    padding: 1.5rem;
+    margin-top: 3rem;
+}
+
+/* =========================
+   RESPONSIVE DESIGN
+========================= */
+
+@media (max-width: 992px) {
+    .hero {
+        grid-template-columns: 1fr;
+    }
+
+    .content-grid,
+    .services-grid {
+        grid-template-columns: 1fr;
+    }
+
+    header {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+@media (max-width: 768px) {
+    h1 { font-size: 2rem; }
+    h2 { font-size: 1.5rem; }
+
+    .nav-links {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    main {
+        width: 95%;
+    }
+}
+
+@media (max-width: 480px) {
+    .btn {
+        width: 100%;
+        text-align: center;
+    }
+}
