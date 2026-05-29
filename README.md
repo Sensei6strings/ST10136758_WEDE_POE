@@ -169,7 +169,7 @@ Unsplash. 2024. Free stock images. Available at: [https://unsplash.com](https://
 
 
 ---
-
+PART 2
 
 Project Description
 A responsive multi-page SPCA South Africa website built using HTML, CSS, and JavaScript. The project focuses on animal welfare awareness, adoption, donations, and volunteer engagement. Part 2 introduces a fully styled interface using external CSS, responsive layouts, and improved user experience design aligned with modern web standards.
