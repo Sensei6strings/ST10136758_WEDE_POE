@@ -3,41 +3,119 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enquiry</title>
+
+    <title>SPCA South Africa | Get Involved</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
 
 <header>
-    <img src="images/spca-logo.png" alt="SPCA Logo" width="140">
-    <h1>Enquiry Form</h1>
+
+    <div class="logo-container">
+        <img src="images/spca-logo.jpg" alt="SPCA Logo" class="logo">
+        <h1>Get Involved</h1>
+    </div>
 
     <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="services.html">Services</a>
-        <a href="enquiry.html">Enquiry</a>
-        <a href="contact.html">Contact</a>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="enquiry.html">Enquiry</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
     </nav>
+
 </header>
 
 <main>
 
-    <section>
-        <h2>Adopt, Donate, or Volunteer</h2>
+   
+    <section class="hero">
 
-        <form>
-            <label>Full Name:</label><br>
-            <input type="text" name="fullname"><br><br>
+        <div class="hero-content">
+            <h2>Every Action Creates a Second Chance</h2>
+            <p>
+                Whether you adopt, donate, or volunteer — your support directly changes the life of an animal in need.
+            </p>
+        </div>
 
-            <label>Email Address:</label><br>
-            <input type="email" name="email"><br><br>
+        <img src="images/hero-dog.jpg" alt="Cute rescued dog looking hopeful" class="hero-image">
 
-            <label>Message:</label><br>
-            <textarea name="message"></textarea><br><br>
+    </section>
 
-            <button type="submit">Submit Enquiry</button>
-        </form>
+   
+    <section class="card">
+
+        <h2>🐾 Adopt</h2>
+
+        <p>
+            Every year, thousands of dogs across South Africa enter shelters in need of loving homes.
+            Adoption gives these animals a second chance at life, safety, and companionship.
+        </p>
+
+        <p>
+            Many of these animals have survived neglect or abandonment, but with care and patience,
+            they become loyal and loving family members.
+        </p>
+
+        <p>
+            <strong>Did you know?</strong> Over 70% of shelter dogs still wait for permanent homes.
+            Your decision to adopt can literally save a life today.
+        </p>
+
+        <a href="contact.html" class="btn">Start Adoption Enquiry</a>
+
+    </section>
+
+    
+    <section class="card">
+
+        <h2>💙 Donate</h2>
+
+        <p>
+            Even the smallest contribution helps keep rescue operations running.
+            Donations provide food, medical care, shelter, and emergency transport for injured animals.
+        </p>
+
+        <p>
+            A small monthly donation can help feed a rescued dog for an entire week or cover urgent medical treatment
+            that may save its life.
+        </p>
+
+        <p>
+            <strong>Your support matters:</strong> Even a modest contribution creates real, measurable impact
+            in an animal’s recovery journey.
+        </p>
+
+        <a href="contact.html" class="btn">Donate or Enquire</a>
+
+    </section>
+
+  
+    <section class="card">
+
+        <h2>🤝 Volunteer</h2>
+
+        <p>
+            Our work depends on compassionate volunteers who give their time, energy, and care to animals in need.
+        </p>
+
+        <p>
+            Whether it’s assisting at shelters, helping with events, or supporting administrative work,
+            every helping hand makes a difference.
+        </p>
+
+        <p>
+            <strong>We believe:</strong> No act of kindness is too small — every moment you give helps an animal
+            move one step closer to safety and healing.
+        </p>
+
+        <a href="contact.html" class="btn">Become a Volunteer</a>
+
     </section>
 
 </main>
