@@ -111,7 +111,7 @@ Part 2 – CSS (29 May 2026)
 * Branding and visual improvements
 * User experience enhancements
 
-Part 3 – JavaScript (12 June 2026)
+Part 3 – JavaScript (June 2026)
 
 * Form validation for enquiry page
 * Interactive elements and functionality
@@ -361,3 +361,48 @@ Unsplash. 2024. Free stock images. Available at: https://unsplash.com
 
 Wikimedia Commons. 2024. Open access media resources. Available at: https://commons.wikimedia.org  
 
+ST10136758_WEDE_POE_FINAL
+
+Project Title
+SPCA South Africa Website Development Project
+
+Student Information
+Name: Smangaliso Yengwa  
+Student Number: ST10136758  
+Module: WEDE5020 Web Development  
+
+---
+Project Overview
+
+This project involves the continued development and enhancement of the SPCA South Africa website, expanding upon the visual design and responsive structure completed in Part 2. Part 3 focuses on improving website functionality through the implementation of JavaScript features, interactive components, dynamic content, form validation, and location-based services.
+
+The website has been enhanced to provide users with a more engaging and accessible experience through features such as interactive SPCA location maps, dynamic content displays, image galleries with improved usability, and advanced form functionality for adoption enquiries, sponsorships, volunteering applications, and animal abuse reports.
+
+Additional improvements focus on Search Engine Optimisation (SEO) best practices, including optimised page titles, meta descriptions, keywords, image accessibility, structured content, and website indexing support. The project also includes improved user interaction through client-side validation, dynamic feedback, and responsive design considerations to ensure the website remains accessible across desktop, tablet, and mobile devices.
+
+The overall goal of this project is to create a professional, informative, and user-friendly platform that supports the SPCA’s mission by encouraging adoption, donations, volunteering, sponsorship, and responsible reporting of animal welfare concerns.
+
+---
+
+Organisation Overview
+The SPCA South Africa is a non-profit organisation dedicated to preventing cruelty to animals, rescuing abused and neglected animals, and promoting responsible pet ownership across South Africa.
+
+---
+
+Website Goals and Objectives
+
+Primary Goals
+- Raise awareness about animal cruelty and prevention  
+- Promote animal adoption and rehoming services  
+- Encourage donations to support SPCA operations  
+- Increase volunteer participation  
+- Provide accessible, structured, and engaging information  
+
+Key Performance Indicators (KPIs)
+- Number of adoption enquiries submitted  
+- Volunteer engagement interactions  
+- Donation enquiry submissions  
+- User engagement time on site  
+- Mobile usability performance  
+
+---
