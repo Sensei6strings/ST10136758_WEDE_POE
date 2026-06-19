@@ -406,3 +406,48 @@ Key Performance Indicators (KPIs)
 - Mobile usability performance  
 
 ---
+## Changelog
+
+### Version 3 – Enhancing Functionality and SEO
+
+- Implemented JavaScript functionality to improve website interaction and user experience.
+- Added a dark mode and light mode toggle button to the website header, allowing users to customise their viewing experience.
+- Added a dynamic animal facts feature on the homepage with adoption-focused facts and supporting imagery to encourage adoption, volunteering, and donations.
+- Implemented a homepage rescue story carousel featuring real SPCA rescue stories, including rescue backgrounds, recovery journeys, and adoption outcomes.
+- Added separate JavaScript files to improve website organisation and maintainability.
+- Created an interactive SPCA directory map using Leaflet, allowing users to view SPCA locations across South Africa.
+- Added province-based filtering functionality to the SPCA directory map, allowing users to search for SPCAs by province.
+- Added JavaScript validation and dynamic functionality to website forms.
+- Developed a new enquiry page containing adoption, volunteering, and sponsorship enquiry functionality.
+- Added dynamic adoption enquiry fields, including animal preferences, additional animal options, pet ownership details, home type selection, and guardian information for users under 18.
+- Added sponsorship enquiry functionality with sponsorship type selection, descriptions, minimum contribution information, and custom sponsor logo upload functionality.
+- Created a dedicated animal abuse reporting page with emergency contact information, animal information fields, incident descriptions, witness details, SPCA selection, and evidence upload functionality.
+- Improved abuse report evidence uploads by allowing multiple files to be uploaded individually or together while displaying all uploaded file names.
+- Added character counters and validation requirements to important abuse report fields.
+- Improved website SEO through updated page titles, meta descriptions, keywords, image optimisation, and improved heading structures.
+- Added robots.txt and sitemap.xml files to improve search engine crawling and indexing.
+- Improved image accessibility by adding descriptive image file names and alternative text.
+- Updated README.md documentation with Part 3 implementation details, references, and development changes.
+
+
+## Ethical Considerations
+
+- Rescue stories and animal welfare content are presented respectfully, focusing on rehabilitation, recovery, and positive outcomes rather than exploiting animal suffering.
+- Animal abuse reporting information is presented sensitively while ensuring users understand the importance of immediate reporting in emergency situations.
+- Personal information submitted through adoption, sponsorship, volunteer, contact, and abuse reporting forms is treated as confidential.
+- Users are informed that personal information collected through abuse reports will remain confidential.
+- The website encourages responsible adoption and animal ownership by providing information about the commitment involved in caring for animals.
+- Sponsorship logo uploads are subject to approval to ensure inappropriate, offensive, or unsuitable content is not displayed on animal habitats.
+- Real SPCA rescue stories are referenced responsibly to raise awareness and encourage support for animal welfare.
+
+
+## Accessibility Considerations
+
+- Added alternative text descriptions to images to improve accessibility for users using screen readers.
+- Maintained clear heading structures to improve navigation and content understanding.
+- Implemented responsive design improvements to ensure the website functions across desktop, tablet, and mobile devices.
+- Added dark mode and light mode functionality to provide users with different viewing preferences.
+- Improved form usability through clear labels, validation messages, and dynamic feedback.
+- Added character counters and input guidance to help users complete forms correctly.
+- Ensured interactive features such as maps, buttons, and forms remain understandable and easy to use.
+- Used readable typography, spacing, and structured layouts to improve overall accessibility.
