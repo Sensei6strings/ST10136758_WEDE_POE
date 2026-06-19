@@ -451,3 +451,43 @@ Key Performance Indicators (KPIs)
 - Added character counters and input guidance to help users complete forms correctly.
 - Ensured interactive features such as maps, buttons, and forms remain understandable and easy to use.
 - Used readable typography, spacing, and structured layouts to improve overall accessibility.
+
+Reference List 
+
+Kloof and Highway SPCA (2024) Veterinary team performing surgery on a dog. Available at: https://www.kloofspca.co.za/wp-content/uploads/2024/08/4-1080x675.jpg.webp (Accessed: 16 June 2026).
+
+Kloof and Highway SPCA (2025) Faith the abandoned dog after rescue and recovery. Available at: https://www.kloofspca.co.za/wp-content/uploads/2025/06/Abandoned-faith-pavlova-dog-rescued-from-pavilion-Kloof-and-Highway-Inspectorate.jpg (Accessed: 16 June 2026).
+
+Kloof and Highway SPCA (2025) Inspectorate story: rescuing Thea. Available at: https://www.kloofspca.co.za/inspectorate-story-rescuing-thea/ (Accessed: 16 June 2026).
+
+Kloof and Highway SPCA (2025) Pip: a Diwali rescue story. Available at: https://www.kloofspca.co.za/pip-a-diwali-rescue-story/ (Accessed: 16 June 2026).
+
+Kloof and Highway SPCA (2025) Pip the Diwali rescue puppy being held by an inspectorate officer. Available at: https://www.kloofspca.co.za/wp-content/uploads/2025/06/Pip-the-diwali-rescue-puppy-ganga-plumbing-inspectorate-story-Kloof-Highway-Spca.jpg (Accessed: 16 June 2026).
+
+Kloof and Highway SPCA (2025) Pip the Diwali rescue puppy being rescued by inspectorate team. Available at: https://www.kloofspca.co.za/wp-content/uploads/2025/06/Pip-the-diwali-rescue-puppy-ganga-plumbing-inspectorate-story-Kloof-Highway-Spca-9.jpg (Accessed: 16 June 2026).
+
+Kloof and Highway SPCA (2025) SPCA Kloof inspectorate team. Available at: https://www.kloofspca.co.za/wp-content/uploads/2025/03/SPCA-Kloof-Inspectorate-Team-1.jpg (Accessed: 16 June 2026).
+
+Kloof and Highway SPCA (2025) Thea puppy rescue: dog receiving veterinary check-up. Available at: https://www.kloofspca.co.za/wp-content/uploads/2025/06/Thea-Puppy-dog-rescue-Kloof-and-Highway-Inspectorate-Lee-Bryant-1.jpg (Accessed: 16 June 2026).
+
+Kloof and Highway SPCA (2025) Thea puppy rescue: dog being held after rescue. Available at: https://www.kloofspca.co.za/wp-content/uploads/2025/06/Thea-Puppy-dog-rescue-Kloof-and-Highway-Inspectorate-Lee-Bryant.jpg (Accessed: 16 June 2026).
+
+Pexels (2026) A veterinarian checking a sick rough collie. Available at: https://www.pexels.com/photo/a-veterinarian-checking-a-sick-rough-collie-6235236/ (Accessed: 16 June 2026).
+
+Pexels (2026) Blonde girl hugging dog. Available at: https://www.pexels.com/photo/blonde-girl-hugging-dog-17844180/ (Accessed: 16 June 2026).
+
+Pexels (2026) Couple with dog in bedroom. Available at: https://www.pexels.com/photo/couple-with-dog-in-bedroom-15448557/ (Accessed: 16 June 2026).
+
+Pexels (2026) Dog receiving medical treatment and bandaging. Available at: https://www.pexels.com/photo/woman-in-blue-crew-neck-t-shirt-holding-brown-short-coated-dog-7474854/ (Accessed: 16 June 2026).
+
+Pexels (2026) Homeless dog with a message. Available at: https://www.pexels.com/photo/photo-of-a-homeless-dog-with-a-message-6568500/ (Accessed: 16 June 2026).
+
+Pexels (2026) Playful puppy enjoys a sunny day outdoors. Available at: https://www.pexels.com/photo/playful-puppy-enjoys-a-sunny-day-outdoors-37501281/ (Accessed: 16 June 2026).
+
+Unsplash (2026) A brown dog standing on its hind legs in a cage. Available at: https://unsplash.com/photos/a-brown-dog-standing-on-its-hind-legs-in-a-cage-bkQaPi830RI (Accessed: 16 June 2026).
+
+Unsplash (2026) A man holding a small dog in a room. Available at: https://unsplash.com/photos/a-man-holding-a-small-dog-in-a-room-7gcjFeXjayw (Accessed: 16 June 2026).
+
+Unsplash (2026) Dogs in a cage during daytime. Available at: https://unsplash.com/photos/two-dogs-in-cage-during-daytime-Xcscr_sNSEY (Accessed: 16 June 2026).
+
+Unsplash (2026) Veterinarian gives injection to a small dog. Available at: https://unsplash.com/photos/veterinarian-gives-injection-to-a-small-dog-fQeLC7WlNm8 (Accessed: 16 June 2026).
