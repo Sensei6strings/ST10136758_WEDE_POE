@@ -5,19 +5,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>SPCA South Africa | Contact</title>
+    <title>SPCA South Africa | Contact & Branch Information</title>
+
+    <meta name="description" content="Contact SPCA South Africa for branch details, general enquiries, and emergency animal assistance. Find your nearest SPCA location in South Africa.">
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles/display.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
 </head>
 
 <body>
 
 <header>
-
     <div class="logo-container">
         <img src="images/spca-logo.jpg" alt="SPCA South Africa Logo" class="logo">
-        <h1>Contact Us</h1>
+        <h1>SPCA South Africa</h1>
     </div>
 
     <nav>
@@ -26,10 +28,14 @@
             <li><a href="about.html">About</a></li>
             <li><a href="services.html">Services</a></li>
             <li><a href="enquiry.html">Enquiry</a></li>
+            <li><a href="report.html">Report Abuse</a></li>
             <li><a href="contact.html">Contact</a></li>
         </ul>
     </nav>
 
+    <button id="theme-toggle" class="theme-btn">
+        🌙
+    </button>
 </header>
 
 <main>
@@ -50,63 +56,194 @@
 
     </section>
 
-    <!-- EMERGENCY CONTACT -->
-    <section class="card">
+<!-- EMERGENCY CONTACT -->
+<section class="card">
 
-        <h2>🚨 Emergency Animal Cruelty Hotline</h2>
+    <h2>🚨 Emergency Animal Cruelty Hotline</h2> 
 
-        <p>
-            If you witness animal abuse or neglect, report it immediately. Our inspectors respond 24/7 to urgent cases.
-        </p>
+    <p>
+        If you witness animal abuse or neglect, report it immediately. Our inspectors respond 24/7 to urgent cases.
+    </p>
 
-        <p>
-            <strong>Emergency Number:</strong>
-            <a href="tel:+27833261604">+27 83 326 1604</a>
-        </p>
+    <p>
+        <strong>Main Emergency Hotline:</strong>
+        <a href="tel:0836041172">083 604 1172 (National Emergency Response)</a>
+    </p>
 
-        <p>
-            <strong>Email:</strong>
-            <a href="mailto:cruelty@nspca.co.za">cruelty@nspca.co.za</a>
-        </p>
+    <p>
+        <strong>Email:</strong>
+        <a href="mailto:cruelty@nspca.co.za">cruelty@nspca.co.za</a>
+    </p>
 
-    </section>
+    <hr>
 
-    <!-- GAUTENG BRANCHES -->
-    <section class="card">
+    <h3>📍 SPCA Regional Contact Numbers</h3> <p>[ Location: Landline | Emergency ]</p>
 
-        <h2>📍 SPCA Gauteng Branch Locations</h2>
+    <p><strong>Ekurhuleni</strong><br>
+        Alberton: 011 907 1568 | 065 616 9004<br>
+        Benoni: 011 894 2814 | 073 511 2261<br>
+        Boksburg: 011 916 5906 | 083 763 6311<br>
+        Brakpan: 011 742 2007 | 083 696 9052<br>
+        Edenvale: 011 974 9387 | 072 183 9794<br>
+        Germiston: 011 825 5033 | 081 399 1781<br>
+        Heidelberg: 016 342 4114 | 071 994 9960<br>
+        Kempton Park: 011 028 3203 | 079 509 7859<br>
+        Nigel: 084 485 7029<br>
+        Springs: 082 668 5230 | 083 377 7029<br>
+        Vereeniging: 016 422 1505 | 016 455 1908 | 083 292 5862
+    </p>
 
-        <p>
-            Select your nearest branch for adoption enquiries, donations, or local assistance.
-        </p>
+    <p><strong>Mpumalanga</strong><br>
+        Bethal: 017 647 5360 | 072 573 3122<br>
+        Middelburg: 013 246 1201 | 084 432 6278<br>
+        Nelspruit: 013 753 3582 | 082 755 8687<br>
+        White River: 013 750 0240 | 082 706 1240<br>
+        Highveld Ridge (Secunda): 082 869 2350 | 082 222 1122<br>
+        Witbank: 013 650 2321 | 083 657 2421
+    </p>
 
-        <ul>
-            <li><strong>Johannesburg SPCA</strong> — 3 Haldene Road, Glen Atholl, Johannesburg</li>
-            <li><strong>Pretoria SPCA</strong> — Rebecca Street, Pretoria West, Pretoria</li>
-            <li><strong>Ekurhuleni SPCA</strong> — Boksburg SPCA, Boksburg North, Gauteng</li>
-            <li><strong>Randburg SPCA</strong> — 50 Rabie Street, Fontainebleau, Randburg</li>
-            <li><strong>Midrand SPCA</strong> — Halfway House Area, Midrand</li>
-            <li><strong>Benoni SPCA</strong> — Lakefield Avenue, Benoni</li>
-        </ul>
+    <p><strong>Metro (Gauteng)</strong><br>
+        Johannesburg: 011 680 3600 | 083 604 1172<br>
+        Midrand: 011 265 9935 | 083 441 1564/5<br>
+        Randburg: 011 462 1610 | 083 381 4732<br>
+        Roodepoort & Krugersdorp: 011 672 0448 | 076 070 1400<br>
+        Sandton: 011 444 7730 | 082 460 2765<br>
+        Tshwane (Waltloo): 012 803 5219 | 083 453 3863<br>
+        Centurion: 012 664 5644 | 082 807 5671
+    </p>
 
-    </section>
+    <p><strong>KwaZulu-Natal</strong><br>
+        Durban & Coast: 031 579 6500 | 083 212 6103<br>
+        Kloof & Highway: 031 764 1212 | 073 335 9322<br>
+        Pietermaritzburg: 033 386 9267 | 083 627 9736<br>
+        Richards Bay: 035 753 2086 | 073 551 4564<br>
+        Amanzimtoti: 031 904 2445 | 072 122 7288
+    </p>
 
-    
-    <section class="card">
+    <p><strong>Western Cape</strong><br>
+        Cape of Good Hope: 021 700 4140 | 083 261 604<br>
+        Paarl: 021 863 2720 | 082 510 6387<br>
+        George (Garden Route): 044 878 1990 | 082 378 7384<br>
+        Swellendam: 028 514 2083 | 084 737 1948<br>
+        Wellington: 021 864 3726 | 082 905 9184
+    </p>
 
-        <h2>🗺️ View All Locations on Map</h2>
+    <p><strong>Eastern Cape</strong><br>
+        East London: 043 745 1441 | 083 446 8682<br>
+        King William’s Town: 043 643 6008 | 082 255 4991<br>
+        Mthatha: 047 004 0014 | 083 759 0576<br>
+        Queenstown: 045 011 0176 | 082 492 5588
+    </p>
 
-        <p>
-            Use the interactive map below to find all SPCA branches in Gauteng and plan your visit.
-        </p>
+    <p><strong>Free State</strong><br>
+        Bloemfontein: 051 447 3801 | 078 322 8332<br>
+        Bethlehem: 058 303 3998 | 083 629 6403<br>
+        Kroonstad: 056 110 0041 | 071 271 1731<br>
+        Virginia: 079 776 1153 | 076 144 4788
+    </p>
 
-        <a class="btn"
-           href="https://www.google.com/maps/search/SPCA+Gauteng/"
-           target="_blank">
-            Open SPCA Gauteng Map
-        </a>
+    <p><strong>North West</strong><br>
+        Parys: 056 811 3671 | 072 894 4061<br>
+        Randwest (Randfontein): 011 412 3114 | 078 911 0538<br>
+        Rustenburg: 014 592 3181 | 072 933 7723
+    </p>
 
-    </section>
+    <p><strong>Limpopo</strong><br>
+        Polokwane: 015 291 1088 | 082 804 0065<br>
+        Mokopane: 015 491 3661 | 076 538 6291<br>
+        Phalaborwa: 015 781 2415 | 082 494 2147<br>
+        Letaba: 015 307 0768 | 083 628 9257<br>
+        Lephalale: 079 398 6784 | 078 499 2645
+    </p>
+
+</section>
+
+
+<h2>
+📍 Find an SPCA Near You
+</h2>
+
+
+<p>
+Search for SPCA branches across South Africa using the interactive directory map below.
+Select a province to view available locations and contact details.
+</p>
+
+
+
+<div class="map-controls">
+
+
+<label for="province-search">
+Select Province:
+</label>
+
+
+<select id="province-search">
+
+<option value="all">
+All Provinces
+</option>
+
+<option value="Gauteng">
+Gauteng
+</option>
+
+<option value="KwaZulu-Natal">
+KwaZulu-Natal
+</option>
+
+<option value="Western Cape">
+Western Cape
+</option>
+
+<option value="Eastern Cape">
+Eastern Cape
+</option>
+
+<option value="Free State">
+Free State
+</option>
+
+<option value="Limpopo">
+Limpopo
+</option>
+
+<option value="Mpumalanga">
+Mpumalanga
+</option>
+
+<option value="North West">
+North West
+</option>
+
+<option value="Northern Cape">
+Northern Cape
+</option>
+
+</select>
+
+
+
+<button 
+id="search-province"
+class="btn">
+
+Search
+
+</button>
+
+
+</div>
+
+
+
+
+<div id="spca-map"></div>
+
+
+
+</section>
 
     
     <section class="card">
@@ -116,6 +253,7 @@
         <p><strong>Monday – Friday:</strong> 08:00 – 16:30</p>
         <p><strong>Saturday:</strong> 08:00 – 13:00</p>
         <p><strong>Sunday & Public Holidays:</strong> Emergency services only</p>
+        <p>Note that these dates are only a guideline and may vary from location to location,<br> please contact the relevant branch to be certain.</p>
 
     </section>
 
@@ -136,6 +274,10 @@
 <footer>
     <p>&copy; 2026 SPCA South Africa</p>
 </footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="scripts/maps.js"></script>
+<script src="scripts/script.js"></script>
 
 </body>
 </html>
